@@ -16,3 +16,7 @@
 2.3 Voltaje corriente y resistencia
 ![organizador grafico cuadro comparativo naranja negro](https://user-images.githubusercontent.com/107088999/201200465-3eae0f23-2ccb-4d69-826b-8fa2538462de.jpg)
 
+![Organizador gráfico corporativo azul con imágenes](https://user-images.githubusercontent.com/107088999/201209273-a6a5928d-a224-4827-bb38-507c74d341d3.jpg)
+
+![codigo-resistencias](https://user-images.githubusercontent.com/107088999/201209448-4706cbe3-1bda-4d3c-9949-12ed795dd6ce.PNG)
+
