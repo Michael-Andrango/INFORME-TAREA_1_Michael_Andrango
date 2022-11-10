@@ -1,4 +1,4 @@
-# Laboratorio_1_Michael_Andrango
+# INFORME TAREA 1 Michael Andrango
 1. OBJETIVOS 
 1.1 Utilizar de forma correcta las unidades de medicion identificando mediante sus simbolos, para conversiones y sus notaciones tanto cientificas como de ingenieria 
 
@@ -12,4 +12,7 @@
 
 2.2 Estructura del Atomo y Carga Electrica
 ![Rosa y Gris Simple Mapa Mental](https://user-images.githubusercontent.com/107088999/201155490-a6092a09-1c2f-4b17-ae8f-b3cffe49ebc6.jpg)
+
+2.3 Voltaje corriente y resistencia
+![organizador grafico cuadro comparativo naranja negro](https://user-images.githubusercontent.com/107088999/201200465-3eae0f23-2ccb-4d69-826b-8fa2538462de.jpg)
 
