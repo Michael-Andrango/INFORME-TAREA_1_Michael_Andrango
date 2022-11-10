@@ -32,16 +32,21 @@ Seccion 1-2    Notacion Cientifica
 
 
 4. Exprese cada uno de los números siguientes en notación científica:
-(a) 0.0002 (b) 0.6 (c)
+
+![image](https://user-images.githubusercontent.com/107088999/201227598-588ef12a-13af-45ec-8152-4015195fed05.png)
+
 
 6. Exprese cada uno de los números siguientes como un número decimal regular:
 
+![image](https://user-images.githubusercontent.com/107088999/201228367-2a635631-37af-4f45-8c57-3a1d2be7f58c.png)
 
 8. Exprese cada número de los siguientes como un número decimal regular:
-(a) (b) (c)
+
+
 
 10. Efectúe las siguientes sustracciones:
-(a) (b)
+![image](https://user-images.githubusercontent.com/107088999/201230399-c6b2be0a-f1cd-4bc9-a93e-acda997c390a.png)
+
 
 12. Realice las siguientes divisiones:
 (a) (b)
