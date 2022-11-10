@@ -20,3 +20,5 @@
 
 ![codigo-resistencias](https://user-images.githubusercontent.com/107088999/201209448-4706cbe3-1bda-4d3c-9949-12ed795dd6ce.PNG)
 
+3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS 
+3.1
