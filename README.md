@@ -49,33 +49,46 @@ Seccion 1-2    Notacion Cientifica
 
 
 12. Realice las siguientes divisiones:
-(a) (b)
-(c)
+
+![image](https://user-images.githubusercontent.com/107088999/201555063-26e2e415-d915-4369-8ad4-88c4646acfee.png)
+
 
 Seccion 1–3 Notación de ingeniería y prefijos métricos
 
 14. Exprese cada número en notación de ingeniería:
-(a) (b) (c)
+
+![image](https://user-images.githubusercontent.com/107088999/201559162-8172b3e8-5507-4ef4-9304-9c7aafce0434.png)
+
 
 16. Exprese cada número en notación de ingeniería:
-(a) (b) (c)
+
+![image](https://user-images.githubusercontent.com/107088999/201559189-86e4faa9-8a6a-44ad-bfb7-939ac3dd58fd.png)
+
 
 18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
-(a) (b)
 
-19. Divida los números siguientes y exprese cada resultado en notación de ingeniería:
-(a) (b)
-(c)
+![image](https://user-images.githubusercontent.com/107088999/201559237-a7b6f754-5a21-4549-b924-441646202195.png)
+
 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico.
 
+![image](https://user-images.githubusercontent.com/107088999/201559282-774a3ed9-3175-48fb-a827-ebb7c7d968bb.png)
+
+
 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
-(a) (b) (c)
+
+![image](https://user-images.githubusercontent.com/107088999/201559303-94169c3c-50bc-4d7b-a584-1c1f413d791f.png)
+
 
 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
-(a) (b) (c)
+
+![image](https://user-images.githubusercontent.com/107088999/201559330-66721171-cfc2-4713-ae38-b5d23ac38c90.png)
+
 
 26. Exprese cada cantidad en notación de ingeniería:
-(a) 5 A (b) 43 mV (c) 275 k (d) 10 MW
+(a) 5 uA (b) 43 mV (c) 275 k (d) 10 MW
+
+![image](https://user-images.githubusercontent.com/107088999/201559376-b9670b4e-ab61-4dd2-a64a-6d9759cf2fee.png)
+
 
 Seccion 1–4 Conversiones de unidades métricas
 
@@ -84,5 +97,20 @@ Seccion 1–4 Conversiones de unidades métricas
 (b) El número de milivolts en 0.05 kilovolts
 (c) El número de megohms en 0.02 kilohms
 (d) El número de kilowatts en 155 miliwatts
+
+![image](https://user-images.githubusercontent.com/107088999/201559398-1bbceca8-2084-49b5-bef9-8c2097865f0a.png)
+
 30. Realice las siguientes operaciones:
-(a)
+
+![image](https://user-images.githubusercontent.com/107088999/201559440-4a2cc414-f707-4ab5-8b75-c48076a7158f.png)
+
+
+
+
+
+
+
+
+
+
+
