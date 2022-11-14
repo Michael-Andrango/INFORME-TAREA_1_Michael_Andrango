@@ -109,8 +109,159 @@ Seccion 1–4 Conversiones de unidades métricas
 ![image](https://user-images.githubusercontent.com/107088999/201559440-4a2cc414-f707-4ab5-8b75-c48076a7158f.png)
 
 
+CAPITULO 2
+
+SECCIÓN 2–2 Carga eléctrica
+
+2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+
+Es la partícula más pequeña de un elemento que conserva las características únicas del elemento.
+
+4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+
+Es el número que hay de protones en el núcleo.
+
+SECCIÓN 2–3 Voltaje, corriente y resistencia
+
+6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
+a través del resistor?
+
+![image](https://user-images.githubusercontent.com/107088999/201563477-fbd5cab8-e6ae-47ba-8a95-bc0d947ae445.png)
 
 
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+![image](https://user-images.githubusercontent.com/107088999/201563915-4c518c44-bd02-441e-a4fc-178446cd48c2.png)
+
+
+10. Determine la corriente en cada uno de los siguientes casos:
+(a) 75 C en 1 s (b) 10 C en 0.5 s (c) 5 C en 2 s
+
+![image](https://user-images.githubusercontent.com/107088999/201564678-5263083c-3132-472b-a080-035add48efc6.png)
+
+
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+![image](https://user-images.githubusercontent.com/107088999/201564880-ad00c96a-a45e-461b-a0c0-3eda9a911391.png)
+
+
+14. 5.74 3 1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+
+![image](https://user-images.githubusercontent.com/107088999/201565947-53e666c6-c032-4f2b-bb2f-97b5a8d8a988.png)
+
+
+16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+(a) 0.1 S (b) 0.5 S (c) 0.02 S
+
+![image](https://user-images.githubusercontent.com/107088999/201566553-e7141a30-0052-4fcf-b185-57b0af204747.png)
+
+
+SECCIÓN 2–4 Fuentes de voltaje y de corriente
+
+
+18. ¿En qué principio se basan los generadores eléctricos?
+
+Se basan en la induccion elecctromagnetica
+
+20. Cierta fuente de corriente proporciona 100 mA a 1 kV de carga. Si la resistencia disminuye a 500 V,
+¿cuál es la corriente en la carga?
+
+![image](https://user-images.githubusercontent.com/107088999/201567415-1c7919e0-5e91-4f7b-ab5a-21ad906b4f63.png)
+
+
+SECCIÓN 2–5 Resistores
+
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
+problema 21.
+
+![image](https://user-images.githubusercontent.com/107088999/201568150-704a5b98-9d2a-472d-93c9-bf6c12c7b400.png)
+
+
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+(a) café, negro, negro, oro
+
+(b) verde, café, verde, plata
+
+(c) azul, gris, negro, oro
+
+
+![image](https://user-images.githubusercontent.com/107088999/201568352-94e06581-cd24-4f1a-b016-6af183f375d4.png)
+
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+(a) rojo, gris, violeta, rojo, café
+
+(b) azul, negro, amarillo, oro, café
+
+(c) blanco, naranja, café, café, café
+
+
+![image](https://user-images.githubusercontent.com/107088999/201568552-1fbfaefe-5afe-4788-ac55-ab46e563d939.png)
+
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
+resistencia total es de 1000 V, ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+![image](https://user-images.githubusercontent.com/107088999/201568735-9da2fe58-ade9-4cac-bb86-702e92a70a5b.png)
+
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+(a) 4R7J (b) 5602M (c) 1501F
+
+![image](https://user-images.githubusercontent.com/107088999/201569063-3bb292c3-b286-4af5-a81a-c5bb445b2cfa.png)
+
+
+SECCIÓN 2–6 El circuito eléctrico
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusi-
+ble conectado para proteger el circuito contra corriente excesiva.
+
+
+
+
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los inte-
+rruptores?
+
+![image](https://user-images.githubusercontent.com/107088999/201569729-081a951f-ed18-4e28-b3d9-66c33d85b0bf.png)
+
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que
+aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
+fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
+de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una
+sección puede ser conectada al amplificador.
+
+![image](https://user-images.githubusercontent.com/107088999/201561352-ce5e3008-666d-4065-ad3a-0e07c8f79b5f.png)
+
+
+SECCIÓN 2–7 Mediciones de circuito básicas
+
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+![image](https://user-images.githubusercontent.com/107088999/201561568-33f04356-bf15-4313-a5aa-2eca9927cd43.png)
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
+fuente de voltaje sin importar la posición del interruptor.
+
+![image](https://user-images.githubusercontent.com/107088999/201561687-71f6c1e5-3f4f-4587-91ef-2b34adada3d3.png)
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor
+presente en la figura 2-70.
+
+![image](https://user-images.githubusercontent.com/107088999/201570304-fb7d8a92-7334-445b-bb41-ae3c961a0f32.png)
+
+SE TENDRIA QUE COLOCAR EN PARALELO CADA RESISTOR PARA SU MEDICION.
+
+44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![image](https://user-images.githubusercontent.com/107088999/201561885-2d63d777-e11d-4a16-888e-50cbb09905b7.png)
+
+![image](https://user-images.githubusercontent.com/107088999/201570624-85ca23a4-29cb-4c25-9ff6-b2d1689aabaf.png)
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+El multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 
 
