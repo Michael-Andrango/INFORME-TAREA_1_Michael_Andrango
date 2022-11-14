@@ -42,6 +42,7 @@ Seccion 1-2    Notacion Cientifica
 
 8. Exprese cada número de los siguientes como un número decimal regular:
 
+![image](https://user-images.githubusercontent.com/107088999/201560030-04014ea0-cfb4-41c5-8f13-2e602bc7a947.png)
 
 
 10. Efectúe las siguientes sustracciones:
@@ -94,8 +95,11 @@ Seccion 1–4 Conversiones de unidades métricas
 
 28. Determine lo siguiente:
 (a) El número de microamperes en 1 miliampere
+
 (b) El número de milivolts en 0.05 kilovolts
+
 (c) El número de megohms en 0.02 kilohms
+
 (d) El número de kilowatts en 155 miliwatts
 
 ![image](https://user-images.githubusercontent.com/107088999/201559398-1bbceca8-2084-49b5-bef9-8c2097865f0a.png)
