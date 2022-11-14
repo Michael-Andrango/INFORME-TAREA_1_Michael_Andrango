@@ -126,12 +126,12 @@ SECCIÓN 2–3 Voltaje, corriente y resistencia
 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
 a través del resistor?
 
-![image](https://user-images.githubusercontent.com/107088999/201563477-fbd5cab8-e6ae-47ba-8a95-bc0d947ae445.png)
+![image](https://user-images.githubusercontent.com/107088999/201571039-638a8566-ed1e-4840-8109-43b223c073ae.png)
 
 
 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 
-![image](https://user-images.githubusercontent.com/107088999/201563915-4c518c44-bd02-441e-a4fc-178446cd48c2.png)
+![image](https://user-images.githubusercontent.com/107088999/201571089-382054fa-4c11-4866-b390-5844057b852c.png)
 
 
 10. Determine la corriente en cada uno de los siguientes casos:
@@ -142,7 +142,7 @@ a través del resistor?
 
 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
-![image](https://user-images.githubusercontent.com/107088999/201564880-ad00c96a-a45e-461b-a0c0-3eda9a911391.png)
+![image](https://user-images.githubusercontent.com/107088999/201571155-e8105ed2-b887-4478-8c9a-854558fdfc76.png)
 
 
 14. 5.74 3 1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
@@ -251,7 +251,8 @@ presente en la figura 2-70.
 
 ![image](https://user-images.githubusercontent.com/107088999/201570304-fb7d8a92-7334-445b-bb41-ae3c961a0f32.png)
 
-SE TENDRIA QUE COLOCAR EN PARALELO CADA RESISTOR PARA SU MEDICION.
+
+R: SE TENDRIA QUE COLOCAR EN PARALELO CADA RESISTOR PARA SU MEDICION.
 
 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
