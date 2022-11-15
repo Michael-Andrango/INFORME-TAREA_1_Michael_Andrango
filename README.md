@@ -231,7 +231,7 @@ SECCIÓN 2–6 El circuito eléctrico
 
 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
-![image](https://user-images.githubusercontent.com/107088999/201561352-ce5e3008-666d-4065-ad3a-0e07c8f79b5f.png)
+![image](https://user-images.githubusercontent.com/107088999/201958620-06b523d5-9317-4bc5-83f1-9ef0807100fc.png)
 
 
 SECCIÓN 2–7 Mediciones de circuito básicas
