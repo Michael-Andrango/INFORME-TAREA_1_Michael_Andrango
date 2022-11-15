@@ -264,7 +264,15 @@ R: SE TENDRIA QUE COLOCAR EN PARALELO CADA RESISTOR PARA SU MEDICION.
 
 El multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
+4. VIDEO 
 
+https://youtu.be/h-_b-h5S90U
+
+5. CONCLUSIONES
+
+
+
+6. BIBLIOGRAFIA 
 
 
 
