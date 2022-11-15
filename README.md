@@ -214,23 +214,17 @@ resistencia total es de 1000 V, ¿cuál es la resistencia entre cada terminal y 
 
 SECCIÓN 2–6 El circuito eléctrico
 
-32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusi-
-ble conectado para proteger el circuito contra corriente excesiva.
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+
+![image](https://user-images.githubusercontent.com/107088999/201950489-a6db62f6-d712-4acc-9589-40993b376e7c.png)
 
 
-
-
-34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los inte-
-rruptores?
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
 ![image](https://user-images.githubusercontent.com/107088999/201569729-081a951f-ed18-4e28-b3d9-66c33d85b0bf.png)
 
 
-36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que
-aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
-fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
-de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una
-sección puede ser conectada al amplificador.
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
 ![image](https://user-images.githubusercontent.com/107088999/201561352-ce5e3008-666d-4065-ad3a-0e07c8f79b5f.png)
 
@@ -241,13 +235,19 @@ SECCIÓN 2–7 Mediciones de circuito básicas
 
 ![image](https://user-images.githubusercontent.com/107088999/201561568-33f04356-bf15-4313-a5aa-2eca9927cd43.png)
 
-40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
-fuente de voltaje sin importar la posición del interruptor.
+Al ver la figura 2- 72 podemos observar que esta conectada en serie asi que solo usariamos su formula para el calculo.
+
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+
 
 ![image](https://user-images.githubusercontent.com/107088999/201561687-71f6c1e5-3f4f-4587-91ef-2b34adada3d3.png)
 
-42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor
-presente en la figura 2-70.
+
+Conectariamos el cable rojo del amperímetro a VS de la figura y el cable negro a VI asi mediriamos la corriente.
+
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
 
 ![image](https://user-images.githubusercontent.com/107088999/201570304-fb7d8a92-7334-445b-bb41-ae3c961a0f32.png)
 
@@ -274,6 +274,8 @@ Como resultado de haber estudiado el capitulo 1 tenemos claro conceptos de canti
 
 6. BIBLIOGRAFIA 
 
+
+Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson
 
 
 
