@@ -270,7 +270,7 @@ https://youtu.be/h-_b-h5S90U
 
 5. CONCLUSIONES
 
-
+Como resultado de haber estudiado el capitulo 1 tenemos claro conceptos de cantidades y unidades aplicando en ejercicios los cuales nos permitieron realizar de forma correcta conversiones, expresar en su forma de notacion cientifica y de ingenieria. Por ultimo los conceptos del capitulo 2 nos sumerge en la teoria del atomo para luego mostrar las distintas aplicaciones de los temas ya mencionados para su uso en ejercicios y practicas.
 
 6. BIBLIOGRAFIA 
 
